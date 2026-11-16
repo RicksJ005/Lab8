@@ -1,0 +1,12 @@
+#BlueJ class context
+#Sun Nov 15 23:47:42 PST 2026
+comment0.target=CarpetCost
+comment0.text=\r\n This class computes the cost for flooring for the room using its area and cost per square foot.\r\n It then returns a string with that information.\r\n\r\n @author Jacob Ricketts\r\n @version 1.0\r\n @since 11/15/2026\r\n
+comment1.params=area cost
+comment1.target=CarpetCost(RoomSize, double)
+comment1.text=\r\n A constructor to create an object with room info and cost per square foot.\r\n \r\n @param area the parts containing the rooms name, length, and width\r\n @param cost the cost of carpet per square foot.\r\n
+comment2.target=double getCost()
+comment2.text=\r\n A function to compute the cost of the flooring using the room's area and square foot cost\r\n \r\n @return the total cost of carpeting the room\r\n
+comment3.target=java.lang.String toString()
+comment3.text=\r\n Returns a string with the room's length, width, area, cost per square foot, and carpeting cost.\r\n \r\n @return a string with the room's cost per square foot and total cost.\r\n
+numComments=4

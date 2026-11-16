@@ -1,0 +1,15 @@
+#BlueJ class context
+#Sun Nov 15 23:47:40 PST 2026
+comment0.target=RoomSize
+comment0.text=\r\n This class sets the name, length, and width of the room.\r\n\r\n @author Jacob Ricketts\r\n @version 1.0\r\n @since 11/15/2026\r\n
+comment1.params=name length width
+comment1.target=RoomSize(java.lang.String, double, double)
+comment1.text=\r\n A constructor to create a RoomSize object with a name, length, and width\r\n \r\n @param name the name of the room\r\n @param length the length of the room\r\n @param width the width of th eroom\r\n
+comment2.params=object2
+comment2.target=RoomSize(RoomSize)
+comment2.text=\r\n Creates a copy of a RoomSize object\r\n \r\n @param object2 the object to copy.\r\n
+comment3.target=double getArea()
+comment3.text=\r\n Calculates and returns the area of the room\r\n \r\n @return the room's area\r\n
+comment4.target=java.lang.String toString()
+comment4.text=\r\n Returns a string that has the room's name, length, width, and area\r\n \r\n @return a string with the room's information.\r\n
+numComments=5
